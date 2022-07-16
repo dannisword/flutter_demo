@@ -18,4 +18,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 安裝套件
 
+## 新增專案
+新增專案 command + shift + p -> flutter: New Project
+
 ![image](https://github.com/dannisword/flutter_demo/blob/main/lib/assets/f-001.png)
+![image](https://github.com/dannisword/flutter_demo/blob/main/lib/assets/f-002.png)
+
+## IOS 模擬環境
+![image](https://github.com/dannisword/flutter_demo/blob/main/lib/assets/f-003.png)
+![image](https://github.com/dannisword/flutter_demo/blob/main/lib/assets/f-005.png)
